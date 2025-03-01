@@ -77,7 +77,7 @@ public class Mahasiswa {
         this.kendaraan = kendaraan;
     }
 
-    //Method unutk menambhakan mata kuliah ke dalam array 
+    //Method unutk menambahkan mata kuliah ke dalam array 
     public void addmatkul(MataKuliah mataKuliah) {
         if (jumlahMatkul < 50) {
             listMatkul [jumlahMatkul] = mataKuliah;
@@ -87,7 +87,7 @@ public class Mahasiswa {
         }
     }
 
-    //Method unutk mendapatkan jumlah totoal sks
+    //Method untuk mendapatkan jumlah total sks
     public int getjumlahsks() {
         int totalsks = 0;
         for (int i = 0; i < jumlahMatkul; i++) {
@@ -96,7 +96,7 @@ public class Mahasiswa {
         return totalsks;
     }
 
-    //Method unutk menssapkan jumlah mata kuliah yang di ambil 
+    //Method untuk menerapkan jumlah mata kuliah yang di ambil 
     public int getjumlahmatkul() {
         return jumlahMatkul;
     }

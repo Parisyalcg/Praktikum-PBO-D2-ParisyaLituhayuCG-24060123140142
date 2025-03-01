@@ -1,12 +1,12 @@
 /*Nama File : MMahasiswa.java
  * Deskripsi : Berisi program utama untuk memanggil penggunaan fungsi class Mahasiswa
  * Pembuat : Parisya Lituhayu Chandrawati Gunawarman/24060123140142
- * Tanggal : Kamis, 28 Februari 2025
+ * Tanggal : Jumat, 28 Februari 2025
 */
 
 public class MMahasiswa {
         public static void main(String[] args) {
-            //Mahasiswa tanpa parameeter  
+            //Mahasiswa tanpa parameter  
             Mahasiswa mhs1 = new Mahasiswa();
     
             mhs1.setnim("141");
@@ -40,7 +40,7 @@ public class MMahasiswa {
             //Menampilkan jumlah sks yang di ambil 
             System.out.println("Jumlah Sks : " + mhs1.getjumlahsks());
 
-            //menampilkan jumlah matkul yang di ambil 
+            //Menampilkan jumlah matkul yang di ambil 
             System.out.println("Jumlah Matkul : " + mhs1.getjumlahmatkul());
             System.out.println("\n");
     

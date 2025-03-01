@@ -1,7 +1,7 @@
 /*Nama File : MMataKuliah.java
  * Deskripsi : Berisi program utama untuk memanggil penggunaan fungsi class MataKuliah
  * Pembuat : Parisya Lituhayu Chandrawati Gunawarman/24060123140142
- * Tanggal : Kamis, 26 Februari 2025
+ * Tanggal : Kamis, 27 Februari 2025
 */
 
 public class MMataKuliah {

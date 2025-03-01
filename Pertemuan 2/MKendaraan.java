@@ -1,7 +1,7 @@
 /*Nama File : MKendaraan.java
  * Deskripsi : Berisi program utama untuk memanggil penggunaan fungsi class Kendaraan
  * Pembuat : Parisya Lituhayu Chandrawati Gunawarman/24060123140142
- * Tanggal : Kamis, 26 Februari 2025
+ * Tanggal : Rabu, 26 Februari 2025
 */
 
 public class MKendaraan {

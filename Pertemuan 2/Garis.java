@@ -1,7 +1,7 @@
 /*Nama File : Garis.java
  * Deskripsi : Berisi atribut dan method dalam class Garis
  * Pembuat : Parisya Lituhayu Chandrawati Gunawarman/24060123140142
- * Tanggal : Kamis, 26 Februari 2025
+ * Tanggal : Rabu, 26 Februari 2025
 */
 
 public class Garis {
